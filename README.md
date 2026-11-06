@@ -115,3 +115,9 @@ Resource Discovery
 - Visibility is the foundation of cost control
 - Safe deletion requires strong validation and guardrails
 - Multi-cloud cost governance needs standardization
+
+
+
+
+
+Hello from OCI
